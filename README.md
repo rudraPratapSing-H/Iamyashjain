@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamyashjain&label=Profile%20views&color=0e75b6&style=flat" alt="iamyashjain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamyashjain" alt="iamyashjain" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.licdn.com/dms/image/v2/D4D03AQGioWELEAmNKg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1693413632261?e=1747267200&v=beta&t=6fDhbSQIZIrLknxbP3tuMc-OI4glmiXgHSEE3LDLrMk" alt="iamyashjain" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yashjai62021727" target="blank"><img src="https://img.shields.io/twitter/follow/yashjai62021727?logo=twitter&style=for-the-badge" alt="yashjai62021727" /></a> </p>
 
